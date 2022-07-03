@@ -4,7 +4,7 @@ I'm looking to start holding myself accountable when it comes to daily studying.
 <br>
 Day 1: 
 <br>
-Finished the pre-processing section of the [Machine Learning A-Z Udemy course](https://www.udemy.com/share/101WfW3@QgDKzuZ0c01GKZEKvgjVgdyEVvRLSSaiaIlJf2drsLlv_A9pNBlTbJLtlcyGr1K7/). 
+Started the pre-processing section of the [Machine Learning A-Z Udemy course](https://www.udemy.com/share/101WfW3@QgDKzuZ0c01GKZEKvgjVgdyEVvRLSSaiaIlJf2drsLlv_A9pNBlTbJLtlcyGr1K7/). Only got through importing data and taking care of missing data.
 <br>
 Applied pre-processing topic to the [Titanic problem](https://www.kaggle.com/competitions/titanic/overview) on Kaggle.
 <br>
