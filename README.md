@@ -8,4 +8,5 @@ Finished the pre-processing section of the [Machine Learning A-Z Udemy course](h
 <br>
 Applied pre-processing topic to the [Titanic problem](https://www.kaggle.com/competitions/titanic/overview) on Kaggle.
 <br>
+<br>
 Day 2:
