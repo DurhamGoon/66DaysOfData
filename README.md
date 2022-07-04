@@ -10,6 +10,7 @@ Applied pre-processing topic to the [Titanic problem](https://www.kaggle.com/com
 <br>
 <br>
 Day 2:
+<br>
 Watched [Interview with Spotify Data Scientist](https://www.youtube.com/watch?v=w-TtxkmWEZA). Spotify is my dream job so this is pretty good insight.
 <br> 
 Continued working on [Machine Learning A-Z Udemy course](https://www.udemy.com/share/101WfW3@QgDKzuZ0c01GKZEKvgjVgdyEVvRLSSaiaIlJf2drsLlv_A9pNBlTbJLtlcyGr1K7/). Encoded categorical variables and splitting test and train data.
