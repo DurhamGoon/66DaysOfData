@@ -14,3 +14,14 @@ Day 2:
 Watched [Interview with Spotify Data Scientist](https://www.youtube.com/watch?v=w-TtxkmWEZA). Spotify is my dream job so this is pretty good insight.
 <br> 
 Continued working on [Machine Learning A-Z Udemy course](https://www.udemy.com/share/101WfW3@QgDKzuZ0c01GKZEKvgjVgdyEVvRLSSaiaIlJf2drsLlv_A9pNBlTbJLtlcyGr1K7/). Encoded categorical variables and splitting test and train data.
+<br>
+<br>
+Day 3:
+<br>
+Finished the pre-processing part of [Machine Learning A-Z Udemy course](https://www.udemy.com/share/101WfW3@QgDKzuZ0c01GKZEKvgjVgdyEVvRLSSaiaIlJf2drsLlv_A9pNBlTbJLtlcyGr1K7/). 
+<br>
+Will start logistic regression section tomorrow so that I can apply it to the [Titanic problem](https://www.kaggle.com/competitions/titanic/overview) to make a prediction. 
+<br>
+Watched Ken Jee's video on [5 Impactful Data Science Projects For Your Portfolio](https://www.youtube.com/watch?v=QMP858aZcow). Might do some visualizations using FBI crime data.
+<br>
+Also, want to look into using reinforcement learning for fighting games.
