@@ -24,4 +24,4 @@ Will start logistic regression section tomorrow so that I can apply it to the [T
 <br>
 Watched Ken Jee's video on [5 Impactful Data Science Projects For Your Portfolio](https://www.youtube.com/watch?v=QMP858aZcow). Might do some visualizations using FBI crime data.
 <br>
-Also, want to look into using reinforcement learning for fighting games.
+Also, want to look into using reinforcement learning for fighting games. Hate playing fighting games so why not let them fight for me.
