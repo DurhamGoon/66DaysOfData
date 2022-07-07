@@ -25,3 +25,10 @@ Will start logistic regression section tomorrow so that I can apply it to the [T
 Watched Ken Jee's video on [5 Impactful Data Science Projects For Your Portfolio](https://www.youtube.com/watch?v=QMP858aZcow). Might do some visualizations using FBI crime data.
 <br>
 Also, want to look into using reinforcement learning for fighting games. Hate playing fighting games so why not let them fight for me.
+<br>
+<br>
+Day 4:
+<br>
+Worked on Logistic Regression Intuition for A-Z. Will use this on Titanic.
+<br>
+Watch this video on [AI Art](https://www.youtube.com/watch?v=UxQDG6WQT5s&list=WL&index=114). Want to do dis.
