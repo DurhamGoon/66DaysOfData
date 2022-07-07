@@ -32,3 +32,10 @@ Day 4:
 Worked on Logistic Regression Intuition for A-Z. Will use this on Titanic.
 <br>
 Watch this video on [AI Art](https://www.youtube.com/watch?v=UxQDG6WQT5s&list=WL&index=114). Want to do dis.
+<br>
+<br>
+Day 5:
+<br>
+Everyday is technically a data day for me. :')
+<br>
+Worked on the Logistic Regression workflow. Got all the way to feature scaling. Will work on training tomorrow.
