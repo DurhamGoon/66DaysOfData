@@ -39,3 +39,8 @@ Day 5:
 Everyday is technically a data day for me. :')
 <br>
 Worked on the Logistic Regression workflow. Got all the way to feature scaling. Will work on training tomorrow.
+<br>
+<br>
+Day 6:
+<br>
+Watched Tina Huang video on [the death of data science])(https://www.youtube.com/watch?v=rqvyWUODZGE). Was an ad. COPIUM. My job will not be automated. COPIUM
