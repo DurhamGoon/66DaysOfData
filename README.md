@@ -44,3 +44,7 @@ Worked on the Logistic Regression workflow. Got all the way to feature scaling. 
 Day 6:
 <br>
 Watched Tina Huang video on [the death of data science])(https://www.youtube.com/watch?v=rqvyWUODZGE). Was an ad. COPIUM. My job will not be automated. COPIUM
+<br>
+<br>
+Day 7: 
+Watched [video on GCP DE exam](https://www.youtube.com/watch?v=bedzsHNSKnA). Will study for this cert boy-o.
