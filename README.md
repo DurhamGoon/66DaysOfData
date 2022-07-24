@@ -50,3 +50,4 @@ Day 7:
 <br>
 Watched [video on GCP DE exam](https://www.youtube.com/watch?v=bedzsHNSKnA). Will study for this cert boy-o.<br>
 Also watched this video on [5 Steps to becoming ML Engineer](https://www.youtube.com/watch?v=IMMDPzECrf0).<br>
+Started [Elements of AI](https://course.elementsofai.com/1) course. 
