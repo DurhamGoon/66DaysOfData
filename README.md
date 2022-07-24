@@ -47,4 +47,6 @@ Watched Tina Huang video on [the death of data science])(https://www.youtube.com
 <br>
 <br>
 Day 7: 
-Watched [video on GCP DE exam](https://www.youtube.com/watch?v=bedzsHNSKnA). Will study for this cert boy-o.
+<br>
+Watched [video on GCP DE exam](https://www.youtube.com/watch?v=bedzsHNSKnA). Will study for this cert boy-o.<br>
+Also watched this video on [5 Steps to becoming ML Engineer](https://www.youtube.com/watch?v=IMMDPzECrf0).<br>
