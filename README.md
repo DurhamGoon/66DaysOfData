@@ -54,4 +54,4 @@ Started [Elements of AI](https://course.elementsofai.com/1) course. Learned thre
 Enrolled in GCP DE Learning path.<br>
 <br>
 Day 8:<br>
-I finished [Chapter 1 of Element of AI](https://course.elementsofai.com/1/1). Got a 7/7 on the assessment. Ayy!<br>
+I finished [Section 1 of Chapter 1 of Element of AI](https://course.elementsofai.com/1/1). Got a 7/7 on the assessment. Ayy!<br>
