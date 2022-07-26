@@ -52,3 +52,6 @@ Watched [video on GCP DE exam](https://www.youtube.com/watch?v=bedzsHNSKnA). Wil
 Also watched this video on [5 Steps to becoming ML Engineer](https://www.youtube.com/watch?v=IMMDPzECrf0).<br>
 Started [Elements of AI](https://course.elementsofai.com/1) course. Learned three applications: autonomous driving, recommendation, image and video processing.<br>
 Enrolled in GCP DE Learning path.<br>
+<br>
+Day 8:<br>
+I finished [Chapter 1 of Element of AI](https://course.elementsofai.com/1/1). Got a 7/7 on the assessment. Ayy!<br>
