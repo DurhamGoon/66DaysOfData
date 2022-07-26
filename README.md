@@ -55,3 +55,4 @@ Enrolled in GCP DE Learning path.<br>
 <br>
 Day 8:<br>
 I finished [Section 1 of Chapter 1 of Element of AI](https://course.elementsofai.com/1/1). Got a 7/7 on the assessment. Ayy!<br>
+I finished [Section 2 of Chapter 1 of Elements of AI](https://course.elementsofai.com/1/2). Perfect on the first assessment. Scammed in the second. Machine Learning is essentially statistics so every answer that has machine learnign by default be statistics as well. Sadge
