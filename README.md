@@ -56,3 +56,8 @@ Enrolled in GCP DE Learning path.<br>
 Day 8:<br>
 I finished [Section 1 of Chapter 1 of Element of AI](https://course.elementsofai.com/1/1). Got a 7/7 on the assessment. Ayy!<br>
 I finished [Section 2 of Chapter 1 of Elements of AI](https://course.elementsofai.com/1/2). Perfect on the first assessment. Scammed in the second. Machine Learning is essentially statistics so every answer that has machine learnign by default be statistics as well. Sadge
+<br>
+<br>
+Day 9:<br>
+I watched the beginning of a [PyTorch Tutorial](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=518s).<br>
+Read [Philosophy of AI](https://course.elementsofai.com/1/3). Eugene Goostman fools boomers.<br>
