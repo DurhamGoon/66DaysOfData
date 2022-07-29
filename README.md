@@ -61,3 +61,6 @@ I finished [Section 2 of Chapter 1 of Elements of AI](https://course.elementsofa
 Day 9:<br>
 I watched the beginning of a [PyTorch Tutorial](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=518s).<br>
 Read [Philosophy of AI](https://course.elementsofai.com/1/3). Eugene Goostman fools boomers.<br>
+<br>
+Day 10:
+[Incredible video](https://www.youtube.com/watch?v=SVcsDDABEkM&t=607s)
