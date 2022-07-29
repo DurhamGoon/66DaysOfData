@@ -63,4 +63,5 @@ I watched the beginning of a [PyTorch Tutorial](https://www.youtube.com/watch?v=
 Read [Philosophy of AI](https://course.elementsofai.com/1/3). Eugene Goostman fools boomers.<br>
 <br>
 Day 10:
+<br>
 [Incredible video](https://www.youtube.com/watch?v=SVcsDDABEkM&t=607s)
